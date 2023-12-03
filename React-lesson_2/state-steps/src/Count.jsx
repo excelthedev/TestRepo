@@ -33,7 +33,7 @@ const Count = () => {
       <button onClick={addCount}>+</button>
       <br />
       <p>Today is {new Date().toLocaleDateString()} </p>
-      <p>wagwan</p>
+      <p>wale added</p>
     </div>
   );
 };
